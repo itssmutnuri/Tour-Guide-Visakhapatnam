@@ -1,0 +1,41 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.srikarmutnuri.tourguideapp.MainActivity">
+
+
+        <TextView
+            android:id="@+id/hotels"
+            style="@style/CategoryStyle"
+            android:background="@color/category_staying"
+            android:text="@string/category_staying" />
+
+        <TextView
+            android:id="@+id/cafes"
+            style="@style/CategoryStyle"
+            android:background="@color/category_eating"
+            android:text="@string/category_eating" />
+
+        <TextView
+            android:id="@+id/visits"
+            style="@style/CategoryStyle"
+            android:background="@color/category_visiting"
+            android:text="@string/category_visiting" />
+
+        <TextView
+            android:id="@+id/nearby_visits"
+            style="@style/CategoryStyle"
+            android:background="@color/category_nearby_visiting"
+            android:text="@string/category_nearby_visiting" />
+
+    </LinearLayout>
+</ScrollView>

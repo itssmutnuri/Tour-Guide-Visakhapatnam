@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Vizag Guide</string>
+    <string name="category_visiting">Famous Attractions</string>
+    <string name="category_eating">Places to Eat</string>
+    <string name="category_staying">Hotels to stay</string>
+    <string name="category_nearby_visiting">Nearby Attractions</string>
+
+    <!--List of places to visit-->
+    <string name="place_one">Ramakrishna Beach</string>
+    <string name="place_two">Kailasagiri</string>
+    <string name="place_three">Submarine Museum</string>
+    <string name="place_four">Dolphin\'s nose</string>
+    <string name="place_five">Yarada Beach</string>
+
+    <string name="place_one_desc">The main beach of the city. It is a famous tourist destination and a melting pot of activities.</string>
+    <string name="place_two_desc">The Kailasagiri Park is well known for its panoramic view, peaceful atmosphere and its scenic beauty, making it a beautiful tourist attraction in Vishakhapatnam</string>
+    <string name="place_three_desc">The INS Kurusura has been converted into a museum after its decommission. Step down and stop to witness the only Submarine Museum in the entire of Asia!</string>
+    <string name="place_four_desc">Very similar to a dolphins nose, this 174 m high rocky headland is situated in the south of Vizag. The nose seems to be protruding out towards the Bay of Bengal giving it a rather fascinating look. </string>
+    <string name="place_five_desc">Situated on the coast of the Bay of Bengal and located close to Dolphin\'s nose, the Yarada beach is a quiet beach to chill by the waves, sip that tender coconut water and occasionally play in the water.</string>
+
+    <string name="place_one_addr">Beach Road, near VUDA Park</string>
+    <string name="place_two_addr">Near Tenneti Park</string>
+    <string name="place_three_addr">Beach Road, near VUDA Park</string>
+    <string name="place_four_addr">Maharanipeta</string>
+    <string name="place_five_addr">Yarada</string>
+
+    <string name="place_one_time">Always open</string>
+    <string name="place_two_time">8 AM to 8 PM</string>
+    <string name="place_three_time">2 PM to 9 PM </string>
+    <string name="place_four_time">3 PM to 5 PM</string>
+    <string name="place_five_time">Always open</string>
+
+    <!--List of places to eat-->
+    <string name="eat_one">Executive Court, Daspalla</string>
+    <string name="eat_two">Zaffran, Novotel</string>
+    <string name="eat_three">The Square, Novotel</string>
+    <string name="eat_four">Heritage Tycoon Restaurant</string>
+    <string name="eat_five">Flying Spaghetti Monster</string>
+
+    <string name="eat_one_desc">Multi-cuisine, famous for its buffet every weekend.</string>
+    <string name="eat_two_desc">Must visit for a rich, fine dining experience</string>
+    <string name="eat_three_desc">Multi-cuisine, very famous for its diverse options.</string>
+    <string name="eat_four_desc">A pocket friendly restaurant, a go to for parties</string>
+    <string name="eat_five_desc">Italian, very much popular among the young populace.</string>
+
+    <string name="eat_one_addr">Rednam Gardens</string>
+    <string name="eat_two_addr">Maharanipeta, Beach Road</string>
+    <string name="eat_three_addr">Maharanipeta, Beach Road</string>
+    <string name="eat_four_addr">Siripuram</string>
+    <string name="eat_five_addr">Siripuram</string>
+
+    <string name="eat_one_time">Always open</string>
+    <string name="eat_two_time">Always open</string>
+    <string name="eat_three_time">Always open</string>
+    <string name="eat_four_time">11 AM to 11 PM</string>
+    <string name="eat_five_time">11 AM to 11 PM</string>
+
+    <!--List of places to stay-->
+
+    <string name="stay_one">Hotel Novotel</string>
+    <string name="stay_two">The Park Hotel</string>
+    <string name="stay_three">Dolphin Hotel</string>
+
+    <string name="stay_one_desc">A five star sea-front hotel, famous for its hospitality.</string>
+    <string name="stay_two_desc">A three star hotel by the beach.</string>
+    <string name="stay_three_desc">A four star hotel, famous for its views and impeccable rooms.</string>
+
+    <string name="stay_one_addr">Maharanipeta, Beach Road</string>
+    <string name="stay_two_addr">Near VUDA Park, Beach Road</string>
+    <string name="stay_three_addr">Jagadamba Junction</string>
+
+    <string name="stay_one_time">Always open</string>
+    <string name="stay_two_time">Always open</string>
+    <string name="stay_three_time">Always open</string>
+
+    <!--List of nearby attractions-->
+    <string name="nearby_one">Tatipudi Reservoir</string>
+    <string name="nearby_two">Kondakarla Ava</string>
+    <string name="nearby_three">Araku Valley</string>
+    <string name="nearby_four">Lambasingi</string>
+
+    <string name="nearby_one_desc">This reservoir is famous for its scenic beauty. It serves as a water supply for the city.</string>
+    <string name="nearby_two_desc">This fresh water natural lake is home of many birds and one of the main spot for photographer interested in birds photography.</string>
+    <string name="nearby_three_desc">A famous hill station near Vizag, known for its picturesque beauty and weather.</string>
+    <string name="nearby_four_desc">Known as Andhra Ooty, this hamlet is a famous destination for many. with temperatures going sub zero during winters, a long ride on a bike is a must. </string>
+
+    <string name="nearby_one_addr">Beach Road, near VUDA Park</string>
+    <string name="nearby_two_addr">Near Tenneti Park</string>
+    <string name="nearby_three_addr">Beach Road, near VUDA Park</string>
+    <string name="nearby_four_addr">Maharanipeta</string>
+
+    <string name="nearby_one_time">10 AM to 5 PM for tourists</string>
+    <string name="nearby_two_time">5 AM to 5 PM for tourists</string>
+    <string name="nearby_three_time">Always open</string>
+    <string name="nearby_four_time">Always open</string>
+
+</resources>

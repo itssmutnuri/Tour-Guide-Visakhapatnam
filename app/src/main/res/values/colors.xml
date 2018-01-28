@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#000000</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#000000</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#8aacc8</color>
+
+    <color name="category_staying">#002171</color>
+    <color name="category_eating">#003c8f</color>
+    <color name="category_visiting">#004ba0</color>
+    <color name="category_nearby_visiting">#005cb2</color>
+</resources>
