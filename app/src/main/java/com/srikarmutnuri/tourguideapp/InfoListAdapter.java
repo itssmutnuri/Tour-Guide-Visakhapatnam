@@ -34,7 +34,6 @@ public class InfoListAdapter extends ArrayAdapter<InfoList>  {
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.photoImageView);
         imageView.setImageResource(currentLocation.getImageResourceId());
-        imageView.setVisibility(View.VISIBLE);
 
         TextView nameView = (TextView) listItemView.findViewById(R.id.nameTextView);
         nameView.setText(currentLocation.getName());
